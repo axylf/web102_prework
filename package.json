@@ -2,14 +2,14 @@
     "type": "module",
     "name": "web102_prework",
     "version": "1.0.0",
-    "description": "Submitted by: **Your Name Here**",
+    "description": "Submitted by: Axyl Fredrick",
     "main": "index.js",
     "scripts": {
         "lite": "lite-server --port 10001",
         "start": "npm run lite"
     },
     "keywords": [],
-    "author": "",
+    "author": "Axyl Fredrick",
     "license": "ISC",
     "devDependencies": {
         "lite-server": "^2.6.1"
