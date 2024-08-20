@@ -1,23 +1,24 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Leviathian
 
-Submitted by: **Your Name Here**
+Submitted by: Axyl Fredrick
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Leviathian** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+      A search feature has been added to make looking up games easier.
 
 ## Video Walkthrough
 
@@ -35,6 +36,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+One challenge I encountered was getting the web server to run JavaScript. At first I tried simply running the HTML page, but then I learned I needed to have a server set up to link the HTML/CSS with the JS. NodeJS along with lite-server were used to allow the server to run, and after doing some online digging, I found out how to create a start command for lite-server to run. This is a crucial skill and taught me that in web development, I sometimes need to ask for help, and that it is a natural part of the development process.
 
 ## License
 
