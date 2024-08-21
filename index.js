@@ -165,7 +165,7 @@ const descriptionContainer = document.getElementById("description-container");
 
 // use filter or reduce to count the number of unfunded games
 const numUnfunded = GAMES_JSON.reduce( (acc, game) => {
-    acc += (game.pledged > game.goal) ? 1 : 0;
+    acc += (game.pledged < game.goal) ? 1 : 0;
     return acc;
 }, 0);
 
