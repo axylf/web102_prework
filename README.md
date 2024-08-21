@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://imgur.com/gallery/web102-prework-poKadtZ
+https://imgur.com/gallery/web-102-prework-submission-TtFVa5H
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap 
